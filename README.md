@@ -6,8 +6,8 @@ Complex analyses are made on the data to identify patterns and trends that could
 
 What the total vaccinations (first dose, second dose per region, total and overtime) are for a particular region.
 Where they should target the first marketing campaign(s) based on:
- * area(s) with the largest number of people who have received a first dose but no second dose?
- * which area has the greatest number of recoveries so that they can avoid this area in their initial campaign runs?
- * whether deaths have been increasing across all regions over time or if a peak has been reached?
+ * Area(s) with the largest number of people who have received a first dose but no second dose?
+ * Which area has the greatest number of recoveries so that they can avoid this area in their initial campaign runs?
+ * Whether deaths have been increasing across all regions over time or if a peak has been reached?
  * What other types of Twitter data points and tweets have both #coronavirus and #vaccinated hashtags.
  * Which regions have experienced a peak in hospitalisation numbers and if there are regions that have not reached a peak yet. Demonstrate if the provided functions can assist you to answer these questions. Provide reasons for your answer.
